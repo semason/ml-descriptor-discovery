@@ -30,7 +30,7 @@ The notebook is designed to run interactively in **Google Colab** and contains t
 
 No additional data files or local software installation are required.
 
-> **Open in Colab:** A direct launch link will be added here once the notebook is hosted in this repository.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/semason/ml-descriptor-discovery/blob/main/ML_Descriptor_Discovery_Demo.ipynb)
 
 ## Educational context
 
