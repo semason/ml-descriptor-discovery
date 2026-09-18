@@ -40,7 +40,7 @@ The dataset and workflow are adapted from published research, but the notebook u
 
 ## Related publication
 
-[**[Publication citation to be added]**](https://doi.org/10.1021/acs.jpcc.5c02972)
+[**[Fundamental Insights into Cathode Stability: Linking Compositional Tuning and Local Coordination in Complex Metal Oxides under Aqueous Transformations]**](https://doi.org/10.1021/acs.jpcc.5c02972)
 
 The research article provides the full computational methodology, dataset construction, validation, and scientific analysis underlying the work adapted for this exercise.
 
